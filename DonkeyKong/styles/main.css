@@ -1,0 +1,23 @@
+main{
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 10000%;
+    max-width: 2000px;
+}
+
+.main_info{
+    width: 100%;
+    max-width: 570px;
+}
+.main_info img {
+    width: 100%;
+    max-width: 600px;
+}
+
+.main_info p {
+    font-size: 18px;
+    margin-top: 20px;
+}
+
